@@ -1,0 +1,80 @@
+
+
+
+
+html {
+    background-color: white;
+      padding-top: 120px;
+   }
+  
+  #nav-bar {
+      height: 100px;
+      position: fixed;
+      display: flex;
+      top: 0;
+      left: 0;
+      right: 0;
+      background-color: rgb(16, 16, 16);
+    }
+    
+    
+    #header-logo {
+      height: 90px;
+      padding-left: 5px;
+      padding-top: 5px;
+    }
+    
+    .insta-link {
+      display: inline-flex;
+      flex-direction: row;
+      align-items: center;
+      list-style: none;
+      justify-content: flex-end;
+      padding-right: 1vw;
+      text-decoration: none;
+      color: white;
+      width: 100%;
+      
+    }
+
+    #email {
+      padding-left: 20px ;
+    }
+  
+  .fab {
+      color: rgb(255, 255, 255);
+      text-shadow: 1px;
+  }
+  
+    main {
+      padding-bottom: 50px;
+    }
+    
+    section {
+      width: 0 auto;
+      margin: 0 auto;
+      white-space:nowrap; 
+      overflow: scroll;
+      overflow-y: hidden;
+    }
+    
+    .pic-container {
+    width1500px;
+    }
+    
+    #photo {
+      height: 200px;
+    }
+    
+    p {
+      padding-top: 10px;
+      color: black;
+    }
+  
+  #profile-banner {
+      border: 2px solid;
+      border-color: black;
+      width: 100%;
+      padding-top: 10px;
+  }
+  
